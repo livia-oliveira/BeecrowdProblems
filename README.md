@@ -16,7 +16,7 @@ Para facilitar a navegação, o repositório está organizado de forma intuitiva
 📏 Geometria Computacional/: Questões que requerem conhecimento de conceitos geométricos.
 🔠 Strings/: Foco na manipulação e análise de strings.
 🛠 Como Usar
-Cada pasta dentro deste repositório representa uma categoria de problemas, que foi desenvolvida com o objetivo de praticar conceitos específicos de programação. 
+Cada pasta dentro deste repositório representa uma categoria de problemas, e contém uma ou mais soluções para os problemas da Beecrowd. Atualmente, cada problema tem uma solução principal disponível, que foi desenvolvida com o objetivo de praticar conceitos específicos de programação. Estas soluções são apresentadas como exemplos práticos e são ideais para quem está buscando entender diferentes abordagens de resolução.
 
 ✨ Contribuindo
 A contribuição é sempre bem-vinda! Se você tem sugestões de como melhorar uma solução existente, ou se deseja adicionar uma nova solução que possa ajudar a comunidade, por favor, sinta-se à vontade para abrir um pull request. Lembre-se de manter o código comentado e seguir a estrutura já utilizada no repositório.
@@ -26,3 +26,4 @@ Este repositório é distribuído sob a licença MIT. Veja o arquivo LICENSE par
 
 ⚠ Aviso Legal
 Este repositório tem como principal objetivo servir como material de estudo e prática. Incentivamos o uso das soluções aqui apresentadas como forma de aprendizado e aprimoramento das habilidades de programação. Por favor, utilize estas soluções de forma ética e responsável.
+
