@@ -10,13 +10,21 @@ A Beecrowd é uma plataforma que propõe uma diversidade de problemas de program
 
 Para facilitar a navegação, o repositório está organizado de forma intuitiva, categorizado por áreas de conhecimento e níveis de dificuldade. Veja como encontrar o que você precisa:
 
+
 🔰 Iniciante/: Um bom ponto de partida para novatos na programação.
+
 🎲 Ad-Hoc/: Problemas que simulam situações cotidianas, jogos e outras atividades lúdicas.
+
 🌐 Grafos/: Questões envolvendo conceitos e algoritmos de grafos.
+
 📚 Estruturas e Bibliotecas/: Uso de estruturas de dados complexas e funcionalidades de bibliotecas.
+
 🔢 Matemática/: Desafios com um forte componente matemático.
+
 💡 Paradigmas/: Problemas que exigem abordagens específicas, como programação dinâmica.
+
 📏 Geometria Computacional/: Questões que requerem conhecimento de conceitos geométricos.
+
 🔠 Strings/: Foco na manipulação e análise de strings.
 
 🛠 Como Usar
