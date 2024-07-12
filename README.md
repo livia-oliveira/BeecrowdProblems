@@ -1,45 +1,29 @@
-🐝 Beecrowd Problems
+# Beecrowd Problems 🐝
 
-Seja bem-vindo ao repositório "Beecrowd Problems"! Este espaço é dedicado ao armazenamento e exposição das minhas soluções para problemas encontrados na Beecrowd, uma plataforma de programação competitiva conhecida por sua ampla gama de questões desafiadoras. O objetivo aqui é compartilhar abordagens de resolução que podem servir como referência ou ponto de partida para quem deseja aprender e praticar programação. 🚀
+## Description
+Beecrowd Problems is a repository dedicated to solving competitive programming problems from Beecrowd platform. It provides solutions, explanations, and approaches to various coding challenges.
 
-📚 Sobre a Beecrowd
+## Table of Contents 📋
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-A Beecrowd é uma plataforma que propõe uma diversidade de problemas de programação, abrangendo desde questões para iniciantes até desafios avançados. É um ambiente ideal para desenvolvedores que buscam aperfeiçoar suas habilidades de codificação, enfrentando problemas que simulam desafios reais e competições de programação.
+## Overview ℹ️
+This repository contains:
+- Solutions to competitive programming problems from Beecrowd.
+- Detailed explanations and approaches to problem-solving.
+- Code examples and templates for different algorithmic techniques.
 
-🗂 Estrutura do Repositório
+## Features ✨
+- **Problem Categories:** Organized into sections based on problem categories (e.g., data structures, algorithms).
+- **Detailed Explanations:** Provides clear explanations and step-by-step approaches to problem-solving.
+- **Community Contributions:** Open to contributions and improvements from the community.
 
-Para facilitar a navegação, o repositório está organizado de forma intuitiva, categorizado por áreas de conhecimento e níveis de dificuldade. Veja como encontrar o que você precisa:
-
-
-🔰 Iniciante/: Um bom ponto de partida para novatos na programação.
-
-🎲 Ad-Hoc/: Problemas que simulam situações cotidianas, jogos e outras atividades lúdicas.
-
-🌐 Grafos/: Questões envolvendo conceitos e algoritmos de grafos.
-
-📚 Estruturas e Bibliotecas/: Uso de estruturas de dados complexas e funcionalidades de bibliotecas.
-
-🔢 Matemática/: Desafios com um forte componente matemático.
-
-💡 Paradigmas/: Problemas que exigem abordagens específicas, como programação dinâmica.
-
-📏 Geometria Computacional/: Questões que requerem conhecimento de conceitos geométricos.
-
-🔠 Strings/: Foco na manipulação e análise de strings.
-
-🛠 Como Usar
-
-Cada pasta dentro deste repositório representa uma categoria de problemas, e contém uma ou mais soluções para os problemas da Beecrowd. Atualmente, cada problema tem uma solução principal disponível, que foi desenvolvida com o objetivo de praticar conceitos específicos de programação. Estas soluções são apresentadas como exemplos práticos e são ideais para quem está buscando entender diferentes abordagens de resolução.
-
-✨ Contribuindo
-
-A contribuição é sempre bem-vinda! Se você tem sugestões de como melhorar uma solução existente, ou se deseja adicionar uma nova solução que possa ajudar a comunidade, por favor, sinta-se à vontade para abrir um pull request. Lembre-se de manter o código comentado e seguir a estrutura já utilizada no repositório.
-
-📜 Licença
-
-Este repositório é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-⚠ Aviso Legal
-
-Este repositório tem como principal objetivo servir como material de estudo e prática. Incentivamos o uso das soluções aqui apresentadas como forma de aprendizado e aprimoramento das habilidades de programação. Por favor, utilize estas soluções de forma ética e responsável.
-
+## Getting Started 🚀
+To get started with solving problems in this repository, you can:
+- Clone the repository to your local machine:
+  ```bash
+  git clone https://github.com/your-username/BeecrowdProblems.git
